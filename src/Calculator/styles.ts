@@ -11,7 +11,8 @@ export const styles = StyleSheet.create({
         justifyContent: "flex-end",
         alignItems: "flex-end",
         height: "50%",
-        width: "100%"
+        width: "100%",
+        padding: 20
     },
     screenValue: {
         color: "#fff",
